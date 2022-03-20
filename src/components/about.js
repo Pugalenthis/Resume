@@ -23,7 +23,7 @@ export function About(){
                class="col-12 col-sm-12 col-md-8 col-lg-8 "
                id="about-column"
              >
-               <h3 class="pt-3 pb-3 pt-sm-3  pb-sm-3 pt-md-0 pt-lg-0 pt-xl-0 ">
+               <h3 class="pt-4 pb-4 pt-sm-3  pb-sm-3 pt-md-0 pt-lg-0 pt-xl-0 ">
                  Full Stack Developer
                </h3>
                <div class="row">
