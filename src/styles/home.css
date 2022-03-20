@@ -1,0 +1,65 @@
+/*------ Home -------*/
+
+#home-container{
+    color: #ffff;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+
+#home-container .home h1{
+    font-family: 'Poppins', sans-serif; 
+    margin-bottom: 20px !important;   
+}
+
+#home-container .home h2{
+    margin-bottom: 30px !important;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 5px; 
+    color: rgb(222,206,249);
+}
+
+
+#home-container nav{
+    margin-bottom: 30px;
+    width: 100% !important;  
+}
+
+#home-container nav li{
+    display: inline-block;  
+}
+
+#home-container ul li Button{
+    color: rgb(222,206,249) !important;
+    font-family: 'Poppins', sans-serif;
+    margin-right:25px;
+    
+}
+
+#home-container ul li a:hover{
+    text-decoration: none !important;
+    border-bottom:  3px solid rgb(24,210,110);
+    
+}
+
+ .fa-bars{
+    color: #ffff;
+    display: flex;
+    justify-content: end;
+}
+
+#home-container .home-contact-section{
+    font-size: 20px !important;
+    margin-right:15px;
+    border: 1px transparent whitesmoke !important;
+    padding: 10px;
+    color: #ffff;
+    border-radius: 50%;
+    background-color: rgb(109,35,227);
+}
+
+#home-container ul{
+    padding-left: 0px;   
+}

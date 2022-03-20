@@ -1,0 +1,38 @@
+.projects-row{
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+.projects-contianer{
+    margin-top : 50px;
+    background-color : black;
+   
+}
+
+.project-column img{
+    width : 100% !important;
+    height: 200px !important; 
+    
+    border-radius: 10px;
+}
+
+.projects-button{
+    width: 100%;
+    
+    
+}
+
+.projects-button a{
+    text-decoration: none;
+    color:#ffff !important;
+}
+
+
+.projects-github-button{
+    width: 49%;
+}
+
+.projects-read-button{
+    width:49%;
+    
+}

@@ -1,0 +1,53 @@
+/*------- Skills------- */
+.skills-container{
+    width: 100%;
+    background-color: black;
+    margin-top: 50px;
+    height: min-content;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    
+}
+.progress-bar-column-1{
+  
+    display: flex;
+    flex-direction: column;
+       
+}
+
+
+.progress-bar-column-2{
+  
+    display: flex;
+    flex-direction: column;
+       
+}
+
+.progress-bar-column-1 span{
+    margin-top: 5px;
+}
+
+
+.progress-bar-column-2 span {
+    margin-top:5px;
+}
+
+#skills-row h3{
+     margin-bottom: 30px;
+}
+
+
+
+.progress-bar{
+    background-color:rgb(24,210,110) !important ;
+}
+
+
+#skills-row span{
+    color: #ffff;
+    margin-bottom: 5px;
+}
+
+.skills_heading{
+    color:#ffff;
+}
